@@ -15,6 +15,7 @@ function App() {
 
   return (
     <>
+    <img src="./assets/react.svg" alt="" />
       <h1>React</h1>
       <h2>Counter value: {counter}</h2>
 
